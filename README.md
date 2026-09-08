@@ -244,3 +244,6 @@ This repository serves as the official landing page for Light of the Stars. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Light of the Stars today!**
+
+---
+**Last updated:** 2026-09-08 12:37:28 UTC
